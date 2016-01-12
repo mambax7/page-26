@@ -17,7 +17,6 @@
  * @package         page
  * @since           2.6.0
  * @author          Mage Grégory (AKA Mage)
- * @version         $Id$
  */
 
 class PagePage_contentForm extends Xoops\Form\ThemeForm

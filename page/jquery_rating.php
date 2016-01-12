@@ -19,7 +19,6 @@ use Xoops\Core\Request;
  * @package         page
  * @since           2.6.0
  * @author          DuGris (aka Laurent JEN)
- * @version         $Id$
  */
 
 include_once 'header.php';

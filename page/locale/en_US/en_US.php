@@ -17,7 +17,6 @@
  * @package         page
  * @since           2.6.0
  * @author          DuGris (aka Laurent JEN)
- * @version         $Id$
  */
 
 class PageLocaleEn_US /*extends XoopsLocaleEn_US*/

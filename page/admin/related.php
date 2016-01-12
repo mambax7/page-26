@@ -19,7 +19,6 @@ use Xoops\Core\Request;
  * @package         page
  * @since           2.6.0
  * @author          Mage Grégory (AKA Mage)
- * @version         $Id$
  */
 include __DIR__ . '/header.php';
 
